@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConversationsViewController: UIViewController  { // name changed from UIViewController because that was too bland
 
     override func viewDidLoad() {
         super.viewDidLoad()
